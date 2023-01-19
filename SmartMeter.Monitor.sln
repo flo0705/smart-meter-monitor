@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMeter.Monitor", "SmartMeter.Monitor\SmartMeter.Monitor.csproj", "{615C8ADF-89E1-4E3F-B947-FD0E0F71DEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615C8ADF-89E1-4E3F-B947-FD0E0F71DEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615C8ADF-89E1-4E3F-B947-FD0E0F71DEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615C8ADF-89E1-4E3F-B947-FD0E0F71DEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615C8ADF-89E1-4E3F-B947-FD0E0F71DEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
